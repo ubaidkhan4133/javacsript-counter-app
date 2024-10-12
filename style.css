@@ -1,0 +1,17 @@
+.clr {
+  padding: 20px;
+  background-color: blue;
+  border: 1px solid red;
+  border-radius: 20%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  padding-bottom: 40px;
+  max-width: 100%;
+  flex-wrap: nowrap;
+}
